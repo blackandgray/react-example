@@ -1,0 +1,15 @@
+.list li {
+	width: 200px;
+	height: 30px;
+	line-height: 30px;
+	list-style: none;
+	cursor: pointer;
+}
+.list li a {
+	text-decoration: none;
+	display: block;
+}
+.list li:hover {
+	background: #ddd;
+	color: #fff;
+}
